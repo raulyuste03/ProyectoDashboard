@@ -19,3 +19,6 @@ Resultados y Conclusiones.
 Autores
 -->Raul Yuste
 -->https://github.com/raulyuste03
+
+Especificaciones
+--> El proyecto ha sido realizado a traves de Google Sheets a través de Google Drive. Se recomienda que los archivos sean abiertos en Google Drive para evitar incompatibilidades. En todo caso proporciono el archivo directo a Google Drive (https://drive.google.com/drive/folders/1PCVVtcTU8G7MnJ0EWpRfWXD8DKtJ_Oow?usp=drive_link).
