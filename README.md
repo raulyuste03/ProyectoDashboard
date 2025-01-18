@@ -76,3 +76,4 @@ Este proyecto tiene como objetivo analizar patrones de uso y desempeño de los s
 
 ### Autor
 Este proyecto fue desarrollado como parte de un análisis de patrones de suscripción para servicios de streaming.
+Autor: Raúl Yuste López
