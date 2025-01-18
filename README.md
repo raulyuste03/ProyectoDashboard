@@ -66,6 +66,7 @@ Este proyecto tiene como objetivo analizar patrones de uso y desempeño de los s
 2. Navega a la hoja de "Dashboard".
 3. Utiliza los filtros interactivos (como Slicers) para explorar los datos.
 4. Observa los cambios en las tablas y gráficos al aplicar filtros por región, dispositivo o plan.
+5. Para ver el Dashboard accede directamente al siguiente enlace, para evitar incompatibilidades --> (https://docs.google.com/spreadsheets/d/1iLNfEhvnaPi3FEbOzdslZ5JwrBQ48Ariw8Zb2WGYNL8/edit?usp=sharing)
 
 ## 📝 Notas Adicionales
 
